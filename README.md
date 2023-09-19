@@ -1,5 +1,5 @@
 # ImageMagick_Tricks_Collection
-Some ImageMagick tricks that I collect.
+Some ImageMagick tricks that I collect. Pretty nice.
 
 ## Picture Stencil Maker
 
