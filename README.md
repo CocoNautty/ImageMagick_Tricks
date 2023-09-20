@@ -3,8 +3,6 @@ Some ImageMagick tricks that I collect. Pretty nice.
 
 ## Picture Stencil Maker
 
-From https://blog.jiayu.co/2019/05/edge-detection-with-imagemagick/.
-
 <img src="./src/tomjerry.jpg" alt="original" width="400"/>
 
 ### Preprocessing
